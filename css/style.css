@@ -1,0 +1,233 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-image: url(/img/IMG_1550.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 600px;
+  padding-top: 40px;
+}
+
+.heading-content {
+  max-width: 1024px;
+  margin: auto;
+}
+
+.heading img {
+  width: 30px;
+  height: 30px;
+  padding-left: 20px;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.heading-image img {
+  width: 150px;
+  height: auto;
+}
+
+.heading a {
+  text-decoration: none;
+  color: white;
+  padding-left: 25px;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+}
+
+.heading-section {
+  color: white;
+  text-align: center;
+  /* background: black; */
+  margin: 100px auto;
+  line-height: 2em;
+  padding: 0 20px;
+}
+
+.heading-section h1 {
+  font-weight: 600;
+  font-size: 35px;
+  font-family: "Raleway", sans-serif;
+}
+
+.heading-text h4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 85px;
+}
+
+.heading-text a {
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 2px solid white;
+  padding: 20px 30px;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  border-radius: 5px;
+}
+
+/* Middle Section */
+main {
+  background-image: url(/img/914410-mary-kay-sell-mk-section-referes-hero2-shortversion.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+  padding-top: 40px;
+}
+
+.middle-section {
+  color: #d8006d;
+  text-align: center;
+  /* background: black; */
+  margin: 100px auto;
+  line-height: 2em;
+  padding: 0 20px;
+}
+
+.middle-section h1 {
+  font-weight: 600;
+  font-size: 25px;
+  font-family: "Raleway", sans-serif;
+}
+
+.middle-text h4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 60px;
+  padding: 0 600px;
+}
+
+.middle-text a {
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 2px solid #d8006d;
+  padding: 20px 30px;
+  color: #d8006d;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  border-radius: 5px;
+}
+
+/* Section Section */
+section {
+  background-image: url(/img/IMG_1574.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 400px;
+  padding-top: 40px;
+}
+
+.end-section {
+  color: white;
+  text-align: center;
+  /* background: black; */
+  margin: 0px auto;
+  line-height: 2em;
+  padding: 0 20px;
+}
+
+.end-section h1 {
+  font-weight: 600;
+  font-size: 25px;
+  font-family: "Raleway", sans-serif;
+}
+
+.end-text h4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 60px;
+  padding: 0 600px;
+}
+
+.end-text a {
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 2px solid white;
+  padding: 20px 30px;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  border-radius: 5px;
+}
+
+/* About Me */
+body {
+  background-image: linear-gradient(
+    to top,
+    #dbdcd7 0%,
+    #dddcd7 24%,
+    #e2c9cc 30%,
+    #e7627d 46%,
+    #b8235a 59%,
+    #801357 71%,
+    #3d1635 84%,
+    #1c1a27 100%
+  );
+}
+
+.heading {
+  margin: 20px 60px 0;
+}
+
+.bioContainer {
+  color: white;
+  text-align: center;
+}
+
+.bioContainer h1 {
+  font-size: 50px;
+}
+
+.bio-paragraph {
+  color: black;
+}
+
+.bioContainer p {
+  color: black;
+  margin: 0 auto;
+  font-size: 25px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  width: 60%;
+  line-height: 1.5em;
+}
+
+/* Contact Page */
+
+.contact-title {
+  text-align: center;
+}
+
+.contact-title h1 {
+  font-family: "Manrope", sans-serif;
+  font-family: "Nunito", sans-serif;
+  color: white;
+  font-size: 60px;
+  font-weight: 100;
+}
+
+.contact-title p {
+  color: #fff;
+  font-size: 25px;
+  width: 42%;
+  margin: 0 auto;
+  line-height: 1.5em;
+}
